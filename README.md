@@ -27,3 +27,6 @@ This is a simple example of a dashboard that displays data from the World Bank A
    ``` 
 
 4. Open your browser and navigate to `http://localhost:5173` to view the dashboard.
+
+## Online Demo
+You can view the live demo of the dashboard at [Worldbank Dashboard Example](https://worldbank.nizamsaidin.com).
