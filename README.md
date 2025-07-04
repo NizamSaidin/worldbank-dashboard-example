@@ -12,8 +12,8 @@ This is a simple example of a dashboard that displays data from the World Bank A
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone  <repository-url> 
-    cd worldbank-dashboard
+   git clone git@github.com:NizamSaidin/worldbank-dashboard-example.git
+    cd worldbank-dashboard-example
     ```
   
 2. Install dependencies:
